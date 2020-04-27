@@ -1,8 +1,9 @@
-# cra-template
+# cra-template-monorepo
+
+# This template is an example. Only works together with: https://github.com/Luminted/custom-react-scripts.
 
 This is a modification of the official base template for [Create React App](https://github.com/facebook/create-react-app).
 
-If you don't specify a template (for example, `--template typescript`), this template will be used by default.
 
 For more information, please refer to:
 
